@@ -1,2 +1,3 @@
 0-constants.js
-1. Block Scope
+1. Block Scop
+2. Arrow functionse
