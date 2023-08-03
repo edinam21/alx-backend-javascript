@@ -5,3 +5,6 @@
 4-rest-parameter.js
 5-spread-operator.js
 6-string-interpolation.js
+7. Object property value shorthand syntax
+mandatory
+
