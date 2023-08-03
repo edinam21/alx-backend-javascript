@@ -3,3 +3,4 @@
 2. Arrow functionse
 3-default-parameter.js
 4-rest-parameter.js
+5-spread-operator.js
