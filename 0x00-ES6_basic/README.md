@@ -2,3 +2,4 @@
 1. Block Scop
 2. Arrow functionse
 3-default-parameter.js
+4-rest-parameter.js
